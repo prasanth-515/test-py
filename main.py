@@ -19,3 +19,5 @@ def div (a,b):
 div (a,b)
 
 print (c)
+
+print (c)
