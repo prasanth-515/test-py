@@ -17,3 +17,5 @@ def div (a,b):
     print (a/b)
 
 div (a,b)
+
+print (c)
