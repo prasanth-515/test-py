@@ -6,3 +6,6 @@ add (a,b)
 def sub (a,b):
     print ("Subtraction =", a-b)
 sub (a,b)
+def div (a,b):
+    print ("Division =", a/b)
+div (a,b)
