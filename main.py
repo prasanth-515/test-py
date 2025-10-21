@@ -19,5 +19,8 @@ def div (a,b):
 div (a,b)
 
 print (c)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6c8b84b695f859c76c35f92d550ef19ce7e3b928
 print (c)
