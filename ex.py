@@ -9,3 +9,6 @@ sub (a,b)
 def div (a,b):
     print ("Division =", a/b)
 div (a,b)
+def mul (a,b):
+    print("Multiplication =", a*b)
+mul (a,b)
