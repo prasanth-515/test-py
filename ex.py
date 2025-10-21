@@ -12,3 +12,4 @@ div (a,b)
 def mul (a,b):
     print("Multiplication =", a*b)
 mul (a,b)
+print (C)
